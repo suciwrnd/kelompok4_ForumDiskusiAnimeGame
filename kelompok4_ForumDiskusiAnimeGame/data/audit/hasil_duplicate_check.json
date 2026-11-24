@@ -1,0 +1,44 @@
+{
+  "total_documents": 4096,
+  "url_duplicate_groups": 0,
+  "documents_in_url_duplicate_groups": 0,
+  "hash_duplicate_groups": 2,
+  "documents_in_hash_duplicate_groups": 4,
+  "similarity_threshold": 0.95,
+  "similarity_pairs_count": 3,
+  "similarity_pairs": [
+    {
+      "doc_i": 15,
+      "doc_j": 16,
+      "similarity": 0.999999999999996,
+      "title_i": "Uncle's Obsession with Cute Things ⭐ Profile Badge Event - Forums - MyAnimeList.net",
+      "title_j": "Uncle's Obsession with Cute Things ⭐ Profile Badge Event - Forums - MyAnimeList.net",
+      "url_i": "https://myanimelist.net/forum/?topicid=2284331&utm_source=MAL&utm_medium=globalmenu_ojikawa",
+      "url_j": "https://myanimelist.net/forum/?topicid=2284331&utm_source=MAL&utm_medium=textribbon_ojikawa",
+      "source_i": "MAL",
+      "source_j": "MAL"
+    },
+    {
+      "doc_i": 59,
+      "doc_j": 60,
+      "similarity": 0.997116188321572,
+      "title_i": "Rise of the Tomb Raider General Discussions :: Steam Community",
+      "title_j": "Rise of the Tomb Raider General Discussions :: Steam Community",
+      "url_i": "https://steamcommunity.com/app/391220/discussions/",
+      "url_j": "https://steamcommunity.com/app/391220/discussions/0/",
+      "source_i": "Steam",
+      "source_j": "Steam"
+    },
+    {
+      "doc_i": 91,
+      "doc_j": 93,
+      "similarity": 0.9999999999999998,
+      "title_i": "Forum - Anime & Manga Discussion · AniList",
+      "title_j": "Forum - Anime & Manga Discussion · AniList",
+      "url_i": "https://anilist.co/forum/new?token=agNasg5dk9jxq7OcXAjbveTdiXuwn0o1INQQPCcU",
+      "url_j": "https://anilist.co/forum/search",
+      "source_i": "AniList",
+      "source_j": "AniList"
+    }
+  ]
+}

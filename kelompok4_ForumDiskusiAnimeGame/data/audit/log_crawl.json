@@ -1,0 +1,701 @@
+{
+  "source_status": [
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?board=1",
+      "status": 200,
+      "accessible": true,
+      "title": "Anime Discussion - Forums - MyAnimeList.net"
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/",
+      "status": 200,
+      "accessible": true,
+      "title": "Rise of the Tomb Raider General Discussions :: Steam Community"
+    },
+    {
+      "source": "AniList",
+      "url": "https://anilist.co/forum/recent?category=1",
+      "status": 200,
+      "accessible": true,
+      "title": "Forum - Anime & Manga Discussion · AniList"
+    },
+    {
+      "source": "PCGamer",
+      "url": "https://forums.pcgamer.com/forums/general-gaming.33/",
+      "status": 200,
+      "accessible": true,
+      "title": "Checking your browser"
+    },
+    {
+      "source": "AnimeForums",
+      "url": "https://animeforums.net/forum/8-anime-discussion/",
+      "status": 200,
+      "accessible": true,
+      "title": "Anime Discussion - Anime Forums"
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/forumdisplay.php?f=33",
+      "status": 200,
+      "accessible": true,
+      "title": "Video Games - AnimeSuki Forum"
+    }
+  ],
+  "thread_log": [
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=1692966",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=1692966&show=4750",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=1883466",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=1883466&show=7950",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2018168",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2142583",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2245806",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2245806&show=1000",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2282231",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2282231&show=400",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2282290",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2282847",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284321",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284329&utm_source=MAL&utm_medium=globalmenu_vermilionmask",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284330&utm_source=MAL&utm_medium=globalmenu_horemajo",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284331&utm_source=MAL&utm_medium=globalmenu_ojikawa",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284331&utm_source=MAL&utm_medium=textribbon_ojikawa",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284519",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284519&show=300",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284520",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284520&show=450",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2284938",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286067",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286329",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286434",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286471",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286479&utm_source=MAL&utm_medium=event-menu_secretsanta2026",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286531",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286756",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286813",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286832",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286843",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286855",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286861",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286867",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286880",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286886",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286887",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286894",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286921",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286927",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286929",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286944",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286954",
+      "success": false
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286956",
+      "success": false
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2286966",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287025",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287047",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287073",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287077",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287101",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287166",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287206",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287222",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287260",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287304",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287311",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287314",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287358",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=2287372",
+      "success": true
+    },
+    {
+      "source": "MAL",
+      "url": "https://myanimelist.net/forum/?topicid=516093",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/0/",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/1/",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=brazilian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=bulgarian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=czech",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=danish",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=dutch",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=finnish",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=french",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=german",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=greek",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=hungarian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=indonesian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=italian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=japanese",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=koreana",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=latam",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=malay",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=norwegian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=polish",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=portuguese",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=romanian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=russian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=schinese",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=spanish",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=swedish",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=tchinese",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=thai",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=turkish",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=ukrainian",
+      "success": true
+    },
+    {
+      "source": "Steam",
+      "url": "https://steamcommunity.com/app/391220/discussions/?l=vietnamese",
+      "success": true
+    },
+    {
+      "source": "AniList",
+      "url": "https://anilist.co/forum/new?token=agNasg5dk9jxq7OcXAjbveTdiXuwn0o1INQQPCcU",
+      "success": true
+    },
+    {
+      "source": "AniList",
+      "url": "https://anilist.co/forum/overview",
+      "success": true
+    },
+    {
+      "source": "AniList",
+      "url": "https://anilist.co/forum/search",
+      "success": true
+    },
+    {
+      "source": "AniList",
+      "url": "https://anilist.co/forum/thread/14",
+      "success": true
+    },
+    {
+      "source": "AniList",
+      "url": "https://anilist.co/forum/thread/2340",
+      "success": true
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=113728",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=113728&page=8",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=115379",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=115621",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=117729",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=117729&page=10",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=118142",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=124886",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=134496",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=134496&page=84",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=146798",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=146798&page=7",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=151636",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=158038",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=158420",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=158476",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=159713",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=160021",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=161115",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=161512",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=161512&page=7",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=162189",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=162773",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=163031",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=29841",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=29841&page=42",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=35538",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=35538&page=226",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=63925",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=63925&page=44",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=7237",
+      "success": false
+    },
+    {
+      "source": "AnimeSuki",
+      "url": "https://forums.animesuki.com/showthread.php?s=1a17e826b04fb371cd71700a9d3b520e&t=91147",
+      "success": false
+    }
+  ],
+  "total_before_unique": 4096,
+  "total_unique": 4096,
+  "crawl_time": "2026-11-24T12:51:23.976239Z"
+}
