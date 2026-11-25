@@ -1,10 +1,4 @@
 """
-lucene_engine.py - Indexing dan retrieval Apache Lucene (PyLucene) untuk korpus
-Forum Diskusi Anime/Game (UAS Praktikum Penelusuran Informasi, Kelompok 4).
-
-Bagian anggota 3: Lucene indexing, 2 model retrieval, baseline StandardAnalyzer,
-posting list. Modul ini juga dipakai anggota lain (Rocchio, evaluasi, antarmuka).
-
 Tiga konfigurasi (kelas similarity yang berbeda + baseline):
 
     M1  BM25Similarity      + WhitespaceAnalyzer pada token hasil preprocessing
@@ -175,7 +169,7 @@ class Indeks:
         self.analyzer = analyzer
         self.similarity = similarity
 
-    # ------------------------------------------------------------- statistik
+    # statistik
     def statistik(self):
         n_term = MultiTerms.getTerms(self.reader, FIELD).size()
         if n_term < 0:                          # jumlah term tidak diketahui -> hitung
@@ -185,7 +179,7 @@ class Indeks:
         return {"dokumen": self.reader.numDocs(), "term_unik": int(n_term),
                 "total_token": int(total), "rata2_token_per_dok": round(total / max(n_dok, 1), 1)}
 
-    # ------------------------------------------------------------- pencarian
+    # pencarian
     def _query(self, teks):
         return QueryParser(FIELD, self.analyzer).parse(QueryParser.escape(teks))
 
@@ -228,7 +222,7 @@ class Indeks:
                           "skor": float(sd.score)})
         return hasil
 
-    # ---------------------------------------------------- posting list, vektor
+    # posting list, vektor
     def posting_list(self, term, maks=10, posisi=True):
         """Posting list satu term: df, total frekuensi, dan `maks` posting pertama.
 
@@ -270,7 +264,7 @@ class Indeks:
         """Document frequency sebuah term di indeks ini."""
         return int(self.reader.docFreq(Term(FIELD, term)))
 
-    # ---------------------------------------------------------------- skor
+    # skor
     def jelaskan(self, query, doc_id, query_diproses=None):
         """Teks `Explanation` Lucene: rincian skor dokumen `doc_id` untuk query."""
         teks = self.teks_query(query, query_diproses)
@@ -327,10 +321,8 @@ def bangun_indeks(konfig, dokumen, folder_dasar="index_lucene"):
         assert int(_dokumen_tersimpan(searcher, contoh).get("id")) == contoh
     return idx
 
-
-# =====================================================================================
 # Alat bantu penilaian relevansi dan ekspor hasil (dipanggil dari notebook)
-# =====================================================================================
+
 def _baca_csv(berkas):
     """Baca CSV penilaian; pemisah (koma atau titik koma dari Excel lokal Indonesia) dideteksi otomatis."""
     import pandas as pd
@@ -383,7 +375,7 @@ def buat_pool_penilaian(indeks, dokumen, queries, milikku, hasil_dir, kedalaman=
     else:
         tulis()
 
-    # Peringkat tiap model disimpan terpisah (arsip saja; JANGAN dibuka saat menilai)
+    # Peringkat tiap model disimpan terpisah
     pd.DataFrame([{"qid": q, "doc_id": d, **{k: pool[(q, d)].get(k) for k in indeks}} for q, d in pool]).to_csv(
         hasil_dir / ("pool_peringkat_" + "_".join(milikku) + "_JANGAN_DILIHAT.csv"), index=False, encoding="utf-8-sig")
     per_query = {}
